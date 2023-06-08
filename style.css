@@ -210,7 +210,6 @@ button, .continue {
 
 button:hover, .continue:hover {
   color: #fff;
-  /* background-color: hsl(278, 68%, 13.2%); */
   background-color: hsla(278, 68%, 11%, .8);
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
   font-weight: 300;
@@ -310,7 +309,7 @@ button:hover, .continue:hover {
   .cardHolderName input,  .cardNumber input {
     width: 363px;
     font-size: 22px;
-    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
   }
 
   .inputs {
@@ -320,7 +319,7 @@ button:hover, .continue:hover {
 
   .inputs input {
     width: 75px;
-    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
   }
 
   .inputs .cvc {
